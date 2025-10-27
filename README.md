@@ -1,2 +1,2 @@
-# Portifolio-website
-Personal Portifolio Website 
+# Portfolio Website
+This is my personal portfolio website to showcase my projects and skills.
